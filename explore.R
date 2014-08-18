@@ -1,4 +1,4 @@
-setwd("C:/Users/dlaraujo/Documents/Kaggle Titanic")
+#setwd("C:/Users/dlaraujo/Documents/Kaggle Titanic")
 
 titanicTrain <- read.csv("train.csv")
 
